@@ -116,7 +116,7 @@ To use fiche you have to have netcat installed. You probably already have it - t
 1. Clone:
 
     ```
-    git clone https://github.com/solusipse/fiche.git
+    git clone https://github.com/akashkroy/fiche.git
     ```
 
 2. Build:
